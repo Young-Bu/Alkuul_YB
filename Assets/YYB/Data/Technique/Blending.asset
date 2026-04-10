@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66da0e0534064554fa0b88fde19ee2de, type: 3}
   m_Name: Blending
   m_EditorClassIdentifier: 
-  id: "\uBE14\uB80C\uB529"
+  id: Blending
   displayName: "\uBE14\uB80C\uB529"
   tags:
   - Disgust
+  tooltipSummary: 
+  tooltipDetails: "\uBBF9\uC11C\uAE30\uB85C \uC5BC\uC74C\uACFC \uAC04\uB2E4."

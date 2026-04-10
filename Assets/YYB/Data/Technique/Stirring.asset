@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66da0e0534064554fa0b88fde19ee2de, type: 3}
   m_Name: Stirring
   m_EditorClassIdentifier: 
-  id: "\uC2A4\uD130\uB9C1"
+  id: Stirring
   displayName: "\uC2A4\uD130\uB9C1"
   tags:
   - Sadness
+  tooltipSummary: 
+  tooltipDetails: "\uC800\uC5B4\uC11C \uC11E\uB294\uB2E4."
